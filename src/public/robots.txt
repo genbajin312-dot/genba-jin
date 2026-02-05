@@ -1,0 +1,16 @@
+# robots.txt for 株式会社現場ジン
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://genba-jin.com/sitemap.xml
+
+# Google bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+# Crawl-delay
+Crawl-delay: 0
